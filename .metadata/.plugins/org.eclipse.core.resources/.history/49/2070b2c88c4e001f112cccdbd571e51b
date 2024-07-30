@@ -1,0 +1,7 @@
+package LargestOfThreeNumber;
+
+public class Largest {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+	}
+}
