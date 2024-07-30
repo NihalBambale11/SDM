@@ -21,8 +21,6 @@ public class Largest {
 			System.out.println("The Largest number is C : "+c);
 		}
 		
-		double avg = (a+b+c)/3;
-		System.out.println("the avg of numbers "+ avg);
 	
 	}
 }

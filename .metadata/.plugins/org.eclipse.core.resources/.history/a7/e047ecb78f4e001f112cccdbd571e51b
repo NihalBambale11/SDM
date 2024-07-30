@@ -22,7 +22,6 @@ public class Largest {
 		}
 		
 		double avg = (a+b+c)/3;
-		System.out.println("the avg of numbers "+ avg);
 	
 	}
 }
